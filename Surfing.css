@@ -1,0 +1,42 @@
+.jumbotron {
+    height: 500px;
+    text-align: center;
+
+
+
+
+    background-image: url("surf.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    
+}
+h1,h2{
+    text-align: center;
+    color: honeydew;
+}
+
+.group{
+    display: inline-flex;
+    text-align: center;
+}
+#h1{
+    color: black;
+}
+.groupe{
+    display: flex;
+  
+    justify-content: center;
+    align-items: center;
+}
+ .card-img-top {
+     width: 100%;
+    height: 15vw;
+    object-fit: cover;
+} 
